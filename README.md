@@ -14,3 +14,7 @@ When the button is pressed the LED lights up.
 We then add a second button to wire it in series.
 When both buttons are pressed the LED lights up.
 ![simple series cirucuit](https://user-images.githubusercontent.com/64553471/86491473-e08cf400-bd62-11ea-872c-12ec40e3c92b.jpg)
+
+We then configure the ardunio into a parrallel circuit. 
+If either button is pressed, the LED will light up. 
+![simple parrallel circuit](https://user-images.githubusercontent.com/64553471/86492271-7e81be00-bd65-11ea-9bff-a97555ffcb99.jpg)
